@@ -1,21 +1,31 @@
 Memories Manager (Full-Stack App)
 
-### Link :link: 
+### Link :link: (will deploy soon)
 
-### Backend Deployed at: :link: https://memories-app6.herokuapp.com/
+### Backend Deployed at: :link: https://memories-app6.herokuapp.com/posts
+
+---
+
+
+<p align="center"><img src="./demo.png" width="800"></p>
+
+---
 
 ## Features
 
 - Create and Update Memories
 - Like and Delete Memories
 - View Other user's memories
+-  Authentication (Login/Signup) and with (Google)
 - Mobile Responsive
 - Pagination
 
 ## TO DO
-- Authentication (Login/Signup) and with (Google)
+
 - Recommended Posts
 - Validation
+- search by hashtags
+- show liked posts
 
 ## Tech Stack
 
