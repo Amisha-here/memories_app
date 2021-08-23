@@ -47,8 +47,6 @@ Memories Manager (Full-Stack App)
 - - redux-thunk
 - - @material-ui/core
 - - @material-ui/icons
-- - material-ui-chip-input
-- - @material-ui/lab
 - - react-file-base64
 - - react-google-login (for google login feature)
 - - jwt-decode (web tokens decoding)
@@ -58,7 +56,6 @@ Memories Manager (Full-Stack App)
 - - mongoose (for managing mongoDB)
 - - cors
 - - dotenv (for environment variables)
-- - body-parser
 - - nodemon
 - - bcryptjs (for password hashing)
 - - jsonwebtoken (for web tokens and sessions)
