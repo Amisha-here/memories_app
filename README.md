@@ -23,7 +23,6 @@ Memories Manager (Full-Stack App)
 ## TO DO
 
 - Recommended Posts
-- Validation
 - search by hashtags
 - show liked posts
 
